@@ -1,0 +1,21 @@
+.banner{
+    background-color: darkblue;
+    color: ivory;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#small-me {
+    height: 200px;
+    width: 200px;
+}
+
+#Nuri {
+    color: mediumblue;
+    font-size: 100px;   
+}
+
+.bold {
+    font-weight: 900;
+}
